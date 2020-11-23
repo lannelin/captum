@@ -1123,6 +1123,7 @@ SUPPORTED_NON_LINEAR = {
     nn.ReLU: nonlinear,
     nn.ELU: nonlinear,
     nn.LeakyReLU: nonlinear,
+    nn.GELU: nonlinear,
     nn.Sigmoid: nonlinear,
     nn.Tanh: nonlinear,
     nn.Softplus: nonlinear,
